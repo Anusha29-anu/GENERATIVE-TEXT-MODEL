@@ -57,3 +57,5 @@ Control: Making sure the generated text is secure, accurate, and relevant.
 Computational Cost: Training large models is computationally expensive.
 Generative Text Models, fueled by LSTM or GPT architectures, are one of the most intriguing developments in AI and NLP. They allow machines not just to comprehend language but to generate it. Ranging from automating the task of writing to fueling smart assistants, these models are transforming the way we communicate with technology through natural language. As the development goes on, their influence on communication, creativity, and computation can only intensify.
 
+![Image](https://github.com/user-attachments/assets/b1bb7364-22c2-4232-9df7-d5a775188814)
+
