@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generative Text Model</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="importmap">
+        { "imports": { } }
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Generative Text Model</h1>
+        <p>Enter a prompt or topic below. This is a simple demonstration of text generation using a Markov chain model, which learns patterns from a sample text to create new sentences. The model will attempt to continue your prompt or generate related text.</p>
+
+        <textarea id="promptInput" placeholder="e.g., Once upon a time..." rows="4"></textarea>
+        <button id="generateButton">Generate Text</button>
+
+        <h2>Generated Text:</h2>
+        <div id="outputArea" class="output-area">
+            <p>Your generated text will appear here.</p>
+        </div>
+    </div>
+
+    <script src="script.js" type="module"></script>
+</body>
+
+</html>
